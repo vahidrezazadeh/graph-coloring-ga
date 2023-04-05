@@ -1,7 +1,7 @@
 
 # Graph Coloring GA
 
-Graph Coloring With GA Algorithm in Matlab 
+Graph Coloring With Genetic Algorithm in Matlab 
 
 ## Run Locally
 
